@@ -17,14 +17,6 @@ In addition, you will need to download the following NLTK resources:
 - wordnet
 - omw-1.4
 
-## Usage
-To use this script, simply run it using a Python interpreter:
-
-```
-python preprocessing_sentiment_analysis.py
-```
-
-This script assumes that you have a directory called "4312Project" containing CSV files of app reviews, with each file named after the app's package name.
 
 After running the script, it will preprocess the reviews and output a new CSV file for each app, with the preprocessed reviews. It will then perform sentiment analysis on each review using both TextBlob and VADER libraries, and output a CSV file with the app package name, review, and sentiment polarity for each review.
 
