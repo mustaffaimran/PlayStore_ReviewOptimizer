@@ -1,0 +1,100 @@
+package name,app name,feature
+de.markusfisch.android.screentime,Screen Time,Displays your screen time in a permanent notification.
+com.screentime.rc,Screen Time - Parental Control,Monitor your kids’ screen time
+com.screentime.rc,Screen Time - Parental Control,See which apps are being used and for how long
+com.screentime.rc,Screen Time - Parental Control,See what websites they have visited
+com.screentime.rc,Screen Time - Parental Control, Monitor which social media platforms are used and for how long
+com.screentime.rc,Screen Time - Parental Control, See which YouTube videos they have watched
+com.screentime.rc,Screen Time - Parental Control, Receive a notification when your kids try to install a new app
+com.screentime.rc,Screen Time - Parental Control,Receive a daily summary of your kids app and web usage
+com.screentime.rc,Screen Time - Parental Control,Set a specific daily time limit for your kids’ screen time
+com.screentime.rc,Screen Time - Parental Control, Set schedules of when they can and can’t use their device
+com.screentime.rc,Screen Time - Parental Control, Instantly pause your kids’ devices at the push of a button
+com.screentime.rc,Screen Time - Parental Control, Block app activity during bedtime
+com.screentime.rc,Screen Time - Parental Control, Block certain apps from being accessed at all
+com.screentime.rc,Screen Time - Parental Control, View your children’s web history and search history
+com.screentime.rc,Screen Time - Parental Control, Block websites from being accessed
+com.screentime.rc,Screen Time - Parental Control, See exactly where your children are with GPS phone location tracking
+com.screentime.rc,Screen Time - Parental Control, Get an alert when your child arrives or leaves a specific location
+com.screentime.rc,Screen Time - Parental Control, Receive a daily email summary of your kids app and web usage
+com.screentime.rc,Screen Time - Parental Control," Set tasks and chores for your kids to complete, allowing them to earn additional screen time when they’re done"
+com.screentime.rc,Screen Time - Parental Control," Use Free Play mode to temporarily override settings, like during long trips"
+com.screentime.rc,Screen Time - Parental Control,Share app management with other adults in your kids’ lives
+com.screentime.rc,Screen Time - Parental Control," Have up to 5 devices per account, so you can track multiple kids and devices"
+com.tryohana.android,Ohana: Parental Control App,limit screen time of kids' devices with daily time limits
+com.tryohana.android,Ohana: Parental Control App,Threats in the digital world or inappropriate content for your kids age (e.g. porn) are automatically blocked by our database of millions of websites
+com.tryohana.android,Ohana: Parental Control App,"Allow, lock or block apps based on the time of the day."
+com.tryohana.android,Ohana: Parental Control App,Parents can adjust the screen time limit for each day individually and set the device to focus or lock mode during school time
+com.tryohana.android,Ohana: Parental Control App,Ohana notifies your kids each time you use the find my kids feature
+com.mcafee.security.safefamily,Safe Family – Screen Time & Pa,"✔️ View history about app usage activity, location details and system alert history"
+com.mcafee.security.safefamily,Safe Family – Screen Time & Pa,✔️ App Blocker by category keeps your children from accessing apps in specific categories
+com.mcafee.security.safefamily,Safe Family – Screen Time & Pa,✔️ App Blocker by specific Android apps allows you to block individual apps on your kid’s Android device
+com.mcafee.security.safefamily,Safe Family – Screen Time & Pa,✔️ Set a daily time limit for apps to help manage the amount of screen time your child spends with specific applications
+com.mcafee.security.safefamily,Safe Family – Screen Time & Pa,✔️ Track a cell phone and see your kids on a live map so that you know where they are in real time - from breakfast to bedtime
+com.mcafee.security.safefamily,Safe Family – Screen Time & Pa,"✔️ Use geofences to receive an automatic alert when your child has arrived or left a known place (e.g. school, park, or library) with the GPS location tracking feature so you’ll know where they are"
+com.mcafee.security.safefamily,Safe Family – Screen Time & Pa,✔️ Limit screen time to prevent your kids from using their devices early in the morning or set a bedtime curfew and limit accessibility late at night
+com.mcafee.security.safefamily,Safe Family – Screen Time & Pa,"✔️ Use this function to promote good mental health and limit the negative impacts of artificial bluelight, which has been linked with insomnia"
+com.mcafee.security.safefamily,Safe Family – Screen Time & Pa,"✔️ Pause internet usage when you want to, give your kids a 1-click digital time-out when they will be unable to access the Internet or use a majority of their apps until the time-out has been removed"
+com.mcafee.security.safefamily,Safe Family – Screen Time & Pa,✔️ Enjoy a device free dinnertime by putting your children on time-out while eating dinner and spending time with the family
+com.mcafee.security.safefamily,Safe Family – Screen Time & Pa,✔️ Uninstall protection prevents kids from uninstalling Safe Family from their Android devices and PCs
+de.lhoer0.screentimeout,Screen Timeout,powerful tool to edit the timeout setting which is responsible to lock your screen
+de.lhoer0.screentimeout,Screen Timeout,Timeout can be set to preset values or to a exact to the second custom one
+de.lhoer0.screentimeout,Screen Timeout,You can easily switch the timeout for the screen between 'no timeout' and the previous set value by the small Widget
+de.lhoer0.screentimeout,Screen Timeout,Make sure your Screen wont turn off
+com.kiddoware.kidsplace,Kids Place Parental Control,✓ You can launch the app in kids lock mode on your device when you hand it over to them or it can be installed directly on their phone.
+com.kiddoware.kidsplace,Kids Place Parental Control,This screen time limiter & free parental control app free allows you to select all apps they can use & restrict access to these apps only when you lend your phone
+com.kiddoware.kidsplace,Kids Place Parental Control,Activate blocking options for purchases from Google Play & don't allow new apps download while you let your kids play
+com.kiddoware.kidsplace,Kids Place Parental Control,With Kids Place Screen Time Limit you can disable wireless signals & provide - internet safety for kids
+com.kiddoware.kidsplace,Kids Place Parental Control,You can set a screen timer to limit the use of the phone or just some apps by children & control their screen time when you can’t stand by your kids to watch over their phone usage.
+com.kiddoware.kidsplace,Kids Place Parental Control,Create custom user profiles
+com.kiddoware.kidsplace,Kids Place Parental Control,✓ Set a daily timer for the phone or for single apps to control their screen time.
+com.kiddoware.kidsplace,Kids Place Parental Control,✓ Change the name of the app & run it in the background
+com.kiddoware.kidsplace,Kids Place Parental Control,✓ Be sure to automatically restart it every time the phone is turned on
+com.kiddoware.kidsplace,Kids Place Parental Control,✓ Block app uninstall & protect your PIN
+com.kiddoware.kidsplace,Kids Place Parental Control,✓ Child Friendly Launcher with child lock
+com.kiddoware.kidsplace,Kids Place Parental Control,✓ Control what apps are visible and accessible by kids
+com.kiddoware.kidsplace,Kids Place Parental Control,✓ Block unapproved apps
+master.app.screentime,Screen Time - Restrain yoursel,"Screen Time will show a detailed view of the daily mobile phone usage, accurate to the use of the phone in each hour, which apps have been opened. How long has it been used, With Screen Time, you can better allocate mobile phone usage time. with Screen Time, you can know the duration of each hour of use and the type of app used"
+master.app.screentime,Screen Time - Restrain yoursel,"Up to a week of app usage. By checking the statistics of mobile phone usage in the last week. Know your daily mobile phone usage trends,"
+master.app.screentime,Screen Time - Restrain yoursel,"You can set a daily duration limit for each app or type of app, and you can set a different duration for each day, such as on weekends. There are more game usage times. You can set different time limits for each day individually. When the usage time arrives, you will be notified and a page similar to App Lock will be displayed. This will remind you that the usage of the app or category is overtime"
+master.app.screentime,Screen Time - Restrain yoursel,"Some important applications in mobile phones, such as text messages, telephone calls, etc., can be whitelisted for these applications, so that the use of these applications will no longer be restricted. This will not affect your use."
+com.burockgames.timeclocker,StayFree - Stay Focused,★ App usage history: view charts and statistics of your usage history.
+com.burockgames.timeclocker,StayFree - Stay Focused,★ Over-use reminder: notify you when you are spending too much time in an app and start your digital detox.
+com.burockgames.timeclocker,StayFree - Stay Focused,★ Block mode: temporarily block any application that you are over-using.
+com.burockgames.timeclocker,StayFree - Stay Focused,★ Cross-platform: StayFree is now multi-platform! Save time on all your devices by linking the Android app to our Chrome and Firefox extensions.
+com.burockgames.timeclocker,StayFree - Stay Focused,★ Focus mode: Create schedules for distracting apps to stay focused
+com.burockgames.timeclocker,StayFree - Stay Focused,★ Sleep mode: Schedule your sleep time to disable apps
+com.burockgames.timeclocker,StayFree - Stay Focused,★ Pause apps: Pause distracting apps to stop using rest of the day
+com.burockgames.timeclocker,StayFree - Stay Focused,★ Export mode: export your usage history to CSV or Microsoft Excel file.
+com.burockgames.timeclocker,StayFree - Stay Focused,★ Inspiring quotations: show inspiring quotations that encourage productivity and less usage of your phone.
+com.burockgames.timeclocker,StayFree - Stay Focused,★ Interface customization: there are 5 themes - customize the app how you want!
+com.burockgames.timeclocker,StayFree - Stay Focused,★ Lock mode: requires a password to change the settings.
+com.burockgames.timeclocker,StayFree - Stay Focused,★ Widget: show most used apps and total usage on a nice widget.
+com.burockgames.timeclocker,StayFree - Stay Focused,★ Pie chart graph: view daily and monthly application usage percentages.
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Limit app usage on your smartphone
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Track / Monitor screen time with a powerful screen time tracker
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Set a daily per-app limit to limit screen time
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Set focus mode timings & allow only important apps to limit screen time
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Compare screen time with previous data to limit app usage
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Control / cut down screen time with the powerful screen time tracker
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Control children's excessive screen time with enhanced Parental control
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Compare screen time with previous data to limit phone usage
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Effectively Limit phone usage time
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Get a detailed view of the screen time usage
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Get daily screen time in the notification drawer
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Beautiful graphs & statistics
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Digital Detox for a Better Life
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Helps you to spend your quality time wisely
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Limit app usage
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Limit phone usage
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Daily app limit lets you set limits for how much you use apps
+com.appbuck3t.screentime,Screen Time - Stay Focused,✔ Focus mode blocks selected apps in the selected time frame
+com.agooday.screentime,Usage Time - App Usage Manager,"* Track total time spent on your smartphone include app usage detail, incoming notifications and unlocks."
+com.agooday.screentime,Usage Time - App Usage Manager,* Limit some available apps a time interval.
+com.agooday.screentime,Usage Time - App Usage Manager,* Limit time using for a specific application.
+com.agooday.screentime,Usage Time - App Usage Manager,* Secure application by fingerprint or pattern.
+com.ezlapp.screen.time,Screen Time,you can set a limit time when using an app
+com.ezlapp.screen.time,Screen Time,"know how much times have spent on each apps, which app is most used."
+com.ezlapp.screen.time,Screen Time,enable AppLock feature and protect all sensitive information in Screen Time & other app
+com.ezlapp.screen.time,Screen Time,Block or Allow using an app in certain time
+com.ezlapp.screen.time,Screen Time,You can Allow or Block guest user using apps
